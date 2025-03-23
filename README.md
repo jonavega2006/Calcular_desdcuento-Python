@@ -1,17 +1,11 @@
-# Calcular Descuento en Python
-
-Este proyecto contiene un script en **Python** que permite calcular descuentos sobre un monto de compra, con la opción de usar un descuento predeterminado del **10%** o ingresar uno personalizado.
-
-## 📂 Archivo principal
-
-- **Calcular-Descuentp.py** → Contiene el código para calcular el descuento.
-
-## 🚀 Cómo clonar este repositorio
+ Cómo clonar este repositorio
 
 Para clonar este proyecto en tu computadora, abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/jonavega2006/Calcular_desdcuento-Python.git
+```
+```bash
 🔧 Cómo ejecutar el programa
 Asegúrese de tener Python 3 instalado en su sistema.
 
