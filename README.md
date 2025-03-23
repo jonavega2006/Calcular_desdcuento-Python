@@ -5,16 +5,20 @@ Para clonar este proyecto en tu computadora, abre una terminal y ejecuta:
 ```bash
 git clone https://github.com/jonavega2006/Calcular_desdcuento-Python.git
 ```
-```bash
+
 🔧 Cómo ejecutar el programa
 Asegúrese de tener Python 3 instalado en su sistema.
 
 Abra una terminal y navegue hasta la carpeta donde clonaste el repositorio.
 
 Ejecuta el siguiente comando:
-
+```bash
 python Calcular-Descuentp.py
-Funcionamiento del código
+```
+```bash
+-----------------------------------
+----Funcionamiento del código------
+-----------------------------------
 Solicita al usuario el monto total de la compra .
 
 Pregunta si quiere aplicar el descuento por defecto (10%) o ingresar otro porcentaje.
