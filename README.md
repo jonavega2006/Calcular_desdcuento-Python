@@ -15,7 +15,7 @@ Ejecuta el siguiente comando:
 ```bash
 python Calcular-Descuentp.py
 ```
-```bash
+
 -----------------------------------
 ----Funcionamiento del código------
 -----------------------------------
